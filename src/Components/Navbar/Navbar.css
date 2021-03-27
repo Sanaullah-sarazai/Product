@@ -1,0 +1,19 @@
+.Navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+.link1{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.link1:hover {
+    color: grey;
+    cursor: pointer;
+}
